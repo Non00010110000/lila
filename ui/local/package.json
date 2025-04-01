@@ -17,7 +17,7 @@
   "dependencies": {
     "@types/lichess": "workspace:*",
     "bits": "workspace:*",
-    "chart.js": "4.4.3",
+    "chart.js": "4.4.8",
     "chessops": "^0.14.0",
     "lib": "workspace:*",
     "editor": "workspace:*",
