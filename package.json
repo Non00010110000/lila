@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@types/lichess": "workspace:*",
-    "@types/web": "^0.0.201",
+    "@types/web": "^0.0.213",
     "@typescript-eslint/eslint-plugin": "^8.25.0",
     "@typescript-eslint/parser": "^8.25.0",
     "ab": "github:lichess-org/ab-stub",
