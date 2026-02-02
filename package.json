@@ -35,7 +35,7 @@
     "ab": "github:lichess-org/ab-stub",
     "chessground": "^9.1.1",
     "chessops": "^0.14.2",
-    "eslint": "^9.21.0",
+    "eslint": "^9.26.0",
     "lint-staged": "^15.4.3",
     "onchange": "^7.1.0",
     "prettier": "^3.5.2",
